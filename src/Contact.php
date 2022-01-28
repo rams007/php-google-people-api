@@ -1,6 +1,6 @@
 <?php
 
-namespace RapidWeb\GooglePeopleAPI;
+namespace Rams007\GooglePeopleAPI;
 
 class Contact
 {
